@@ -1,4 +1,4 @@
-# E_Commerce 
+# Online Retailer
 Link to report: https://datastudio.google.com/reporting/d030f9d8-c7bf-491e-b63f-ff38163155d5
 ## Tool used:
 - Pandas

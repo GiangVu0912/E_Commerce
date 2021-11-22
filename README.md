@@ -27,19 +27,26 @@ Revenue & Quantity by Month\
 ![image](https://user-images.githubusercontent.com/56812443/142840850-0c5077f2-0cb7-4b62-bcec-8ba0f23cae07.png)\
 Total Order by Month\
 Average Value & Average Quality per Order by Month
-![image](https://user-images.githubusercontent.com/56812443/142840910-5e756a27-8e3c-49aa-b0e3-c3217722f963.png)
-- Trend:
+![image](https://user-images.githubusercontent.com/56812443/142875372-6cd5abf6-1396-4462-9279-f56567e82549.png)
+- Trend:\
 Do customers tend to buy more on certain weekday?\
+![image](https://user-images.githubusercontent.com/56812443/142876755-55fc6056-3c97-4b1d-b243-c4b450d2e794.png)
 Do customers buy more at the start of the month?\
-Do customers tend to buy more at a specific hour of the day?
-- Country:
-Ranking/
+![image](https://user-images.githubusercontent.com/56812443/142875785-066e1d27-8609-42ad-8bfd-bde544f43d24.png)
+Do customers tend to buy more at a specific hour of the day?\
+![image](https://user-images.githubusercontent.com/56812443/142876861-6b96ec84-cec9-4db2-b9ef-075989b6c141.png)
+- Country:\
+Ranking\
+![image](https://user-images.githubusercontent.com/56812443/142877046-0046ec9b-50c5-4d79-9df0-63e3719511e2.png)
 Total Revenue contribution by Country\
+![image](https://user-images.githubusercontent.com/56812443/142877098-3dfbbb05-e4c4-4ddb-b582-5f3b030898a8.png)
 Average Order value by Country\
+![image](https://user-images.githubusercontent.com/56812443/142877122-a22f064e-337d-48f9-abf7-6789a5fe0648.png)
 Revenue Monthly compare to Revenue of First Month by Country
-- Customer:
+![image](https://user-images.githubusercontent.com/56812443/142877243-7f700e66-da1a-4e23-8e90-dacff9d4f1d7.png)
+- Customer:\
 Customer by Time & New Customer by time\
 Revenue Made By New vs Existing Users\
 Customer Retention & Customer Retention Rate\
 Revenue Contribution by First Order Date\
-Customer Segmentation 
+Customer Segmentation\

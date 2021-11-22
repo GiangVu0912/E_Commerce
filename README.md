@@ -20,4 +20,26 @@ https://drive.google.com/file/d/1uY2B7YfdE3iFERc1W09a2tNwpoE3KLaQ/view?usp=shari
 - Remove all duplicated rows 
 ### Step 2: EDA
 - Overview: Total revenue, Total quantity, Total order, Total Customer, Total Country
-- Business Performance: 
+- Business Performance:\
+KPI\
+![image](https://user-images.githubusercontent.com/56812443/142840974-1d4a6876-85f5-44d9-8d3a-7fa34c6f0610.png)\
+Revenue & Quantity by Month\
+![image](https://user-images.githubusercontent.com/56812443/142840850-0c5077f2-0cb7-4b62-bcec-8ba0f23cae07.png)\
+Total Order by Month\
+Average Value & Average Quality per Order by Month
+![image](https://user-images.githubusercontent.com/56812443/142840910-5e756a27-8e3c-49aa-b0e3-c3217722f963.png)
+- Trend:
+Do customers tend to buy more on certain weekday?\
+Do customers buy more at the start of the month?\
+Do customers tend to buy more at a specific hour of the day?
+- Country:
+Ranking/
+Total Revenue contribution by Country\
+Average Order value by Country\
+Revenue Monthly compare to Revenue of First Month by Country
+- Customer:
+Customer by Time & New Customer by time\
+Revenue Made By New vs Existing Users\
+Customer Retention & Customer Retention Rate\
+Revenue Contribution by First Order Date\
+Customer Segmentation 

@@ -39,14 +39,20 @@ Do customers tend to buy more at a specific hour of the day?\
 Ranking\
 ![image](https://user-images.githubusercontent.com/56812443/142877046-0046ec9b-50c5-4d79-9df0-63e3719511e2.png)
 Total Revenue contribution by Country\
-![image](https://user-images.githubusercontent.com/56812443/142877098-3dfbbb05-e4c4-4ddb-b582-5f3b030898a8.png)
+![image](https://user-images.githubusercontent.com/56812443/142877098-3dfbbb05-e4c4-4ddb-b582-5f3b030898a8.png)\
 Average Order value by Country\
-![image](https://user-images.githubusercontent.com/56812443/142877122-a22f064e-337d-48f9-abf7-6789a5fe0648.png)
-Revenue Monthly compare to Revenue of First Month by Country
+![image](https://user-images.githubusercontent.com/56812443/142877122-a22f064e-337d-48f9-abf7-6789a5fe0648.png)\
+Revenue Monthly compare to Revenue of First Month by Country\
 ![image](https://user-images.githubusercontent.com/56812443/142877243-7f700e66-da1a-4e23-8e90-dacff9d4f1d7.png)
 - Customer:\
 Customer by Time & New Customer by time\
+![image](https://user-images.githubusercontent.com/56812443/142877938-9e00bb3c-e20f-4b2a-8d2d-5a1d8545ca83.png)\
 Revenue Made By New vs Existing Users\
+![image](https://user-images.githubusercontent.com/56812443/142878003-96434b63-19e8-4e5f-8e02-eee4361f19d8.png)\
 Customer Retention & Customer Retention Rate\
+![image](https://user-images.githubusercontent.com/56812443/142878061-a8cc0b73-6bef-419c-86d2-0ce7a8b9842a.png)\
 Revenue Contribution by First Order Date\
+![image](https://user-images.githubusercontent.com/56812443/142878148-9dbe6b3b-729e-45eb-8a86-9dc1c53c94fc.png)\
 Customer Segmentation\
+![image](https://user-images.githubusercontent.com/56812443/142878213-9c88e634-c39a-462b-9c7a-18fe929e11ec.png)\
+
